@@ -27,7 +27,19 @@ This guide introduces popular programming languages.
 ## Java
 <!-- Team Member 3 -->
 ## C++
-<!-- Team Member 4 -->
+C++ is a powerful programming language used for building high-performance applications.
+
+### Advantages
+- Very fast and efficient
+- Used in game development (like Unreal Engine)
+- Used in operating systems and system software
+- Gives full control over memory
+
+### Uses
+- Games
+- System software
+- Embedded systems
+- High-performance applications
 ## C#
 <!-- Team Member 5 -->
 ## PHP
