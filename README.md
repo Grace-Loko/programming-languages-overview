@@ -80,15 +80,12 @@ Java Official Website: https://www.java.com
 
 Java Documentation: https://docs.oracle.com/en/java/
 ## C++
-
 **C++** is a powerful, high-performance programming language used for building fast and efficient applications.
-
 ### Advantages
 - Fast and efficient
 - Supports object-oriented programming
 - Used in game development and system software
 - Gives programmers control over memory
-
 ### Uses
 - Video games
 - Operating systems
@@ -97,7 +94,8 @@ Java Documentation: https://docs.oracle.com/en/java/
 
 ### Useful Links
 - https://isocpp.org/
-- https://cplusplus.com/## C#
+- https://cplusplus.com/
+## C#
 <!-- Team Member 5 -->
 ## PHP
 <!-- Team Member 6 -->
