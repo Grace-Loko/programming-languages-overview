@@ -20,7 +20,7 @@
 A programming language is a set of rules and instruction used to communicate with computer. We have several popular programming languages like java, javascript,python and etc.
 
 This guide introduces popular programming languages.
-## Python
+## 1. Python
 ### **Python: An Overview**
 Python is a high-level, interpreted, general-purpose programming language that has become the industry standard for beginners and professionals alike. Created by Guido van Rossum and first released in 1991, its design philosophy emphasizes code readability through the use of significant indentation.
 #### **Core Characteristics**
@@ -33,7 +33,7 @@ Python is a high-level, interpreted, general-purpose programming language that h
 2. **Web Development:** Powerful frameworks like Django and FastAPI enable the rapid construction of secure and scalable backend systems.
 3. **Automation & Scripting:** Python is widely used to write "glue code" that automates repetitive tasks, such as file management, web scraping, and system monitoring.
 4. **Education:** Due to its gentle learning curve, it is the most common language used to teach fundamental programming concepts in schools and universities.
-## JavaScript
+## 2. JavaScript
 ### Overview 
 it was created in 1995 by *brendan Eich* a United States citizen.it's a programming language that gives life to a website page as it makes it interactive and dynamic by allowing web pages to respond to button clicks, process data and update parts of a page without reloading the whole page
 ### Some of the basic contents 
@@ -51,7 +51,7 @@ it is used in line with other languages to enable
   2. game development 
   3. 3D graphics 
   4. creating applications 
-## Java
+## 3. Java
 ### Overview
 Java is **high level, object oriented programming language** it also remains to be one of the most popular one **used for building  realiable, scalable and cross-platform application**. It is known for its `portability, relibity and  security`.It was developed by Sun MIcrosystems(now owned by Oracle). 
 ### Key Feature
@@ -94,7 +94,7 @@ Java is one of the world's most popular programming languages. It is widely used
 ### Useful Resources
 - Java Official Website: https://www.java.com
 - Java Documentation: https://docs.oracle.com/en/java/
-## C++
+## 4. C++
 **C++** is a powerful, high-performance programming language used for building fast and efficient applications.
 ### Advantages
 - Fast and efficient
@@ -109,9 +109,9 @@ Java is one of the world's most popular programming languages. It is widely used
 ### Useful Links
 - https://isocpp.org/
 - https://cplusplus.com/
-## C#
+## 5. C#
 <!-- Team Member 5 -->
-## PHP
+## 6. PHP
 <!-- Team Member 6 -->
-## Rust
+## 7. Rust
 <!-- Team Member 7 -->
