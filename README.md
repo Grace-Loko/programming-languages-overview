@@ -80,6 +80,24 @@ When we say Java has a large standard library it because **it has a collection o
 5. Desktop applications
 6. Cloud-based applications
 7. Games and educational software
+### Java Example Program
+#### Code
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+### Expected Output
+```text
+Hello, World!
+```
+### Explanation
+
+- `public class HelloWorld` defines the class.
+- `main()` is the entry point of the program.
+- `System.out.println()` prints text to the console.
 ### Advantages
 - Its a Write Once, Run Anywhere (WORA)
 - Easy to learn and maintain
