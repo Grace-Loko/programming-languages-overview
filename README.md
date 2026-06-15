@@ -2,7 +2,7 @@
 ### A collaborative guide by:
 - Grace Loko
 - Biven Philip 
-- Team Member 3
+- Gladwell M.
 - Team Member 4
 - Team Member 5
 - Team Member 6
