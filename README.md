@@ -44,8 +44,24 @@ Python is a high-level, interpreted, general-purpose programming language that h
 ## Java
 <!-- Team Member 3 -->
 ## C++
-<!-- Team Member 4 -->
-## C#
+
+**C++** is a powerful, high-performance programming language used for building fast and efficient applications.
+
+### Advantages
+- Fast and efficient
+- Supports object-oriented programming
+- Used in game development and system software
+- Gives programmers control over memory
+
+### Uses
+- Video games
+- Operating systems
+- Embedded systems
+- High-performance applications
+
+### Useful Links
+- https://isocpp.org/
+- https://cplusplus.com/## C#
 <!-- Team Member 5 -->
 ## PHP
 <!-- Team Member 6 -->
