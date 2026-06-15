@@ -111,7 +111,32 @@ Java is one of the world's most popular programming languages. It is widely used
 - https://cplusplus.com/
 ## 5. C#
 <!-- Team Member 5 -->
-## 6. PHP
-<!-- Team Member 6 -->
-## 7. Rust
+## . PHP
+
+### PHP introduction.
+**PHP** is a popular server side scripting language used for web development, building web application and connecting databases.
+PHP runs on the server side, meaning *everything works on the web server before it appears in browser*.
+
+### How PHP works.
+- User opens a wesite.
+- Server runs PHP code.
+- PHP processes data.
+- Result is sent to browser as html.
+### What makes PHP a prefered language.
+1. It is easy to learn because of its simple syntax.
+2. It has a strong database support, e.g MYSQL which are great for login systems and websites that store data.
+3. It works well with html.
+4. It is free and open source.
+### Characteristics of PHP
+|      Characteristic        |                Explanation                                     |
+|----------------------------|----------------------------------------------------------------|
+|Server sided language.      |             It runs on server not on the browser.              |
+|Open source.                |                    free to use and modify.                     |
+|     Embedded in html.      |      A PHP code an be wrotten directly inside HTML files.      |
+|Cross platform Compatibility| Applications developed with PHP can run on different platforms.|
+
+> PHP makes websites dynamic which means changes happen depending on the user input.
+
+
+## Rust
 <!-- Team Member 7 -->
