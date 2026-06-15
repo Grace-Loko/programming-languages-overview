@@ -21,7 +21,7 @@ A programming language is a set of rules and instruction used to communicate wit
 
 This guide introduces popular programming languages.
 ## Python
-<!-- Team Member 1 -->
+<!--  -->
 ## JavaScript
 <!-- Team Member 2 -->
 ## Java
