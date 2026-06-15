@@ -98,15 +98,13 @@ Hello, World!
 - `public class HelloWorld` defines the class.
 - `main()` is the entry point of the program.
 - `System.out.println()` prints text to the console.
-### Advantages
-- Its a Write Once, Run Anywhere (WORA)
-- Easy to learn and maintain
-- Highly secure
-- Excellent performance and scalability
-### Disadvantages of Java
-- Can use more memory than some languages
-- Generally slower than languages like C++
-- More verbose (requires more code) than some modern languages
+### Java Advantages and Disadvantages.
+|Advantages|Disadvantages|
+|----------|-------------|
+|Its a Write Once, Run Anywhere (WORA)|Can use more memory than some languages|
+|Easy to learn and maintain|Generally slower than languages like C++|
+|Highly secure|More verbose (requires more code) than some modern languages|
+|Excellent performance and scalability||
 ### Summary
 Java is one of the world's most popular programming languages. It is widely used for building web applications, mobile apps, enterprise systems, and cloud services because it is reliable, secure, and platform-independent.
 ### Useful Resources
