@@ -1,7 +1,7 @@
 # Programming Languages Overview
 ### A collaborative guide by:
 - Grace
-- Gladwell.
+- Gladwell M.
 - Team Member 3
 - Team Member 4
 - Team Member 5
