@@ -1,6 +1,6 @@
 # Programming Languages Overview
 ### A collaborative guide by:
-- Grace
+- Grace Loko
 - Team Member 2
 - Team Member 3
 - Team Member 4
@@ -21,7 +21,7 @@ A programming language is a set of rules and instruction used to communicate wit
 
 This guide introduces popular programming languages.
 ## Python
-<!--  -->
+<!-- Team Member 1 -->
 ## JavaScript
 <!-- Team Member 2 -->
 ## Java
