@@ -4,7 +4,7 @@
 - Biven Philip 
 - Gladwell M.
 - Alfred ngure 
-- Team Member 5
+- Okolla Immaculate
 - Team Member 6
 - Team Member 7
 ## Table of Contents
@@ -111,7 +111,7 @@ Java is one of the world's most popular programming languages. It is widely used
 - https://cplusplus.com/
 ## 5. C#
 <!-- Team Member 5 -->
-## . PHP
+## 6. PHP
 
 ### PHP introduction.
 **PHP** is a popular server side scripting language used for web development, building web application and connecting databases.
