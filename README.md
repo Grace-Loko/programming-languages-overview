@@ -1,7 +1,7 @@
 # Programming Languages Overview
 ### A collaborative guide by:
-- Grace
-- Gladwell.
+- Grace Loko
+- Team Member 2
 - Team Member 3
 - Team Member 4
 - Team Member 5
@@ -17,7 +17,9 @@
 - [PHP](#php)
 - [Rust](#rust)
 ## Introduction
-A programming language is a set of rules and instruction used to communicate with computer. We have several popular programming languages like java, javascript,python and etc. This guide introduces popular programming languages.
+A programming language is a set of rules and instruction used to communicate with computer. We have several popular programming languages like java, javascript,python and etc.
+
+This guide introduces popular programming languages.
 ## Python
 
 ### **Python: An Overview**
