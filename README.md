@@ -1,5 +1,4 @@
 # Programming Languages Overview
-
 ### A collaborative guide by:
 - Grace
 - Team Member 2
