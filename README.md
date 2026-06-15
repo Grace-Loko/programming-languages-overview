@@ -17,7 +17,7 @@
 - [PHP](#php)
 - [Rust](#rust)
 ## Introduction
-This guide introduces popular programming languages.
+A programming language is a set of rules and instruction used to communicate with computer. We have several popular programming languages like java, javascript,python and etc. This guide introduces popular programming languages.
 ## Python
 <!-- Team Member 1 -->
 ## JavaScript
