@@ -21,7 +21,6 @@ A programming language is a set of rules and instruction used to communicate wit
 ## Python
 
 ### **Python: An Overview**
-
 Python is a high-level, interpreted, general-purpose programming language that has become the industry standard for beginners and professionals alike. Created by Guido van Rossum and first released in 1991, its design philosophy emphasizes code readability through the use of significant indentation.
 
 #### **Core Characteristics**
