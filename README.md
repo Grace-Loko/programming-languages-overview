@@ -55,22 +55,22 @@ it is used in line with other languages to enable
 ### Overview
 Java is **high level, object oriented programming language** it also remains to be one of the most popular one **used for building  realiable, scalable and cross-platform application**. It is known for its `portability, relibity and  security`.It was developed by Sun MIcrosystems(now owned by Oracle). 
 ### Key Feature
-#### 1. Object-oriented programming(OOP).
+#### I. Object-oriented programming(OOP).
 Java uses objects and classes to organize code. Key OOP concept include:
 - Encapsulation
 - Polymorphism
 - Inheritance
 - Abstraction
-#### 2. Strong security features.
+#### II. Strong security features.
 Java includes built-in security features such as:
 - Bytecode verification
 - Memory management
 - Exception handling
-#### 3. Platform independent through the Java Virtual Machine(JMV).
+#### III. Platform independent through the Java Virtual Machine(JMV).
 Java follows the principle:
 ```"Write Once, Run Anywhere (WORA)"```
 Java code is compiled into **bytecode**, which runs on the **Java Virtual Machine (JVM)**. This allows the same program to run on different operating systems such as `Windows`, `macOS`, and `Linux`.
-#### 4. Large standard library and community support.
+#### IV. Large standard library and community support.
 When we say Java has a large standard library it because **it has a collection of pre-written classes and methods**. Instead of writting everything from scratch, *programmers can use these built-in tools*. As for strong community support, **Java has been around **since 1995** and is used by millions of developpers. Because of thid there is a huge number of created tutorial and a large community that answers questions, writtes books and develop tools.
 ### Common Uses of Java
 1. Android application development
