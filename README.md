@@ -54,24 +54,13 @@ it is used in line with other languages to enable
 ## 3. Java
 ### Overview
 Java is **high level, object oriented programming language** it also remains to be one of the most popular one **used for building  realiable, scalable and cross-platform application**. It is known for its `portability, relibity and  security`.It was developed by Sun MIcrosystems(now owned by Oracle). 
-### Key Feature
-#### I. Object-oriented programming(OOP).
-Java uses objects and classes to organize code. Key OOP concept include:
-- Encapsulation
-- Polymorphism
-- Inheritance
-- Abstraction
-#### II. Strong security features.
-Java includes built-in security features such as:
-- Bytecode verification
-- Memory management
-- Exception handling
-#### III. Platform independent through the Java Virtual Machine(JMV).
-Java follows the principle:
-```"Write Once, Run Anywhere (WORA)"```
-Java code is compiled into **bytecode**, which runs on the **Java Virtual Machine (JVM)**. This allows the same program to run on different operating systems such as `Windows`, `macOS`, and `Linux`.
-#### IV. Large standard library and community support.
-When we say Java has a large standard library it because **it has a collection of pre-written classes and methods**. Instead of writting everything from scratch, *programmers can use these built-in tools*. As for strong community support, **Java has been around **since 1995** and is used by millions of developpers. Because of thid there is a huge number of created tutorial and a large community that answers questions, writtes books and develop tools.
+### Key Feature and Explanaton
+|                       **Key Feature**                              |                                                             **Explanation**                                                       |
+|--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| I. **Object-oriented programming(OOP)**                            |Java uses objects and classes to organize code. Key OOP concept include: `Encapsulation`,`Polymorphism`,`Inheritance`,`Abstraction`|
+| II. **Strong security features**                                   |Java includes **built-in security features** such as: `Bytecode verification`,`Memory management`,`Exception handling`             |
+| III. **Platform independent through the Java Virtual Machine(JMV)**|Java follows the principle: <```"Write Once, Run Anywhere (WORA)"``` Java code is compiled into **bytecode**, which runs on the **Java Virtual Machine (JVM)**. This allows the same program to run on different operating systems such as `Windows`, `macOS`, and `Linux`.|
+| IV. **Large standard library and community support**               |When we say Java has a large standard library it because **it has a collection of pre-written classes and methods**. Instead of writting everything from scratch, *programmers can use these built-in tools*. As for strong community support, **Java has been around **since 1995** and is used by millions of developpers. Because of thid there is a huge number of created tutorial and a large community that answers questions, writtes books and develop tools.|
 ### Common Uses of Java
 1. Android application development
 2. Web applications
@@ -99,12 +88,12 @@ Hello, World!
 - `main()` is the entry point of the program.
 - `System.out.println()` prints text to the console.
 ### Java Advantages and Disadvantages.
-|Advantages|Disadvantages|
-|----------|-------------|
-|Its a Write Once, Run Anywhere (WORA)|Can use more memory than some languages|
-|Easy to learn and maintain|Generally slower than languages like C++|
-|Highly secure|More verbose (requires more code) than some modern languages|
-|Excellent performance and scalability||
+|           Advantages                |                        Disadvantages                       |
+|-------------------------------------|------------------------------------------------------------|
+|Its a Write Once, Run Anywhere (WORA)|Can use more memory than some languages                     |
+|Easy to learn and maintain           |Generally slower than languages like C++                    |
+|Highly secure                        |More verbose (requires more code) than some modern languages|
+|Excellent performance and scalability|                                                            |
 ### Summary
 Java is one of the world's most popular programming languages. It is widely used for building web applications, mobile apps, enterprise systems, and cloud services because it is reliable, secure, and platform-independent.
 ### Useful Resources
