@@ -117,6 +117,18 @@ Java is one of the world's most popular programming languages. It is widely used
 ### Useful Links
 - https://isocpp.org/
 - https://cplusplus.com/
+- ## C++ Compared to Other Languages
+
+| C++ | Python | JavaScript |
+|------|---------|------------|
+| Very fast and efficient | Easy to learn | Great for interactive websites |
+| Used in games and system software | Used in AI and data science | Used in web development |
+| Gives high control over memory | Simpler syntax | Runs in web browsers |
+
+### Summary
+- **C++** is best for performance and low-level control.
+- **Python** is best for beginners, AI, and data science.
+- **JavaScript** is best for creating interactive websites.
 ## 5. C#
 <!-- Team Member 5 -->
 ## 6. PHP
