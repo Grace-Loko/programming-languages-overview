@@ -157,6 +157,8 @@ PHP runs on the server side, meaning *everything works on the web server before 
 
 > PHP makes websites dynamic which means changes happen depending on the user input.
 
+- [Geeks for geeks](https//www.geeksforgeeks.org)
+- [PHP official documentation](https//www.php.net)
 
 ## Rust
 <!-- Team Member 7 -->
