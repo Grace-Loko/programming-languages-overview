@@ -5,8 +5,6 @@
 - Gladwell M.
 - Alfred ngure 
 - Okolla Immaculate
-- Team Member 6
-- Team Member 7
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)
@@ -33,6 +31,8 @@ Python is a high-level, interpreted, general-purpose programming language that h
 2. **Web Development:** Powerful frameworks like Django and FastAPI enable the rapid construction of secure and scalable backend systems.
 3. **Automation & Scripting:** Python is widely used to write "glue code" that automates repetitive tasks, such as file management, web scraping, and system monitoring.
 4. **Education:** Due to its gentle learning curve, it is the most common language used to teach fundamental programming concepts in schools and universities.
+> This is the most reliable source for any developer who wants to learn python:
+[ Python:](https://docs.python.org/3/)
 ## 2. JavaScript
 ### Overview 
 it was created in 1995 by *brendan Eich* a United States citizen.it's a programming language that gives life to a website page as it makes it interactive and dynamic by allowing web pages to respond to button clicks, process data and update parts of a page without reloading the whole page
@@ -52,8 +52,20 @@ it is used in line with other languages to enable
   3. 3D graphics 
   4. creating applications
 ### JavaScript program example
-```JavaScript`console.log("Hello, World!");```
-- the output for the above code will be ` Hello, World! `
+```javascript
+// A simple javascript program
+let message ="Hello, World!");
+
+console.log(message);
+```
+### Expected output
+```text
+Hello, World!
+```
+### Example demonstrates:
+- variables `let`
+- Strings `Hello, World!`
+- Output using `console.log()`
 ## 3. Java
 ### Overview
 Java is **high level, object oriented programming language** it also remains to be one of the most popular one **used for building  realiable, scalable and cross-platform application**. It is known for its `portability, relibity and  security`.It was developed by Sun MIcrosystems(now owned by Oracle). 
@@ -86,7 +98,6 @@ public class HelloWorld {
 Hello, World!
 ```
 ### Explanation
-
 - `public class HelloWorld` defines the class.
 - `main()` is the entry point of the program.
 - `System.out.println()` prints text to the console.
@@ -118,25 +129,19 @@ Java is one of the world's most popular programming languages. It is widely used
 - https://isocpp.org/
 - https://cplusplus.com/
 - ## C++ Compared to Other Languages
-
 | C++ | Python | JavaScript |
 |------|---------|------------|
 | Very fast and efficient | Easy to learn | Great for interactive websites |
 | Used in games and system software | Used in AI and data science | Used in web development |
 | Gives high control over memory | Simpler syntax | Runs in web browsers |
-
 ### Summary
 - **C++** is best for performance and low-level control.
 - **Python** is best for beginners, AI, and data science.
 - **JavaScript** is best for creating interactive websites.
-## 5. C#
-<!-- Team Member 5 -->
-## 6. PHP
-
-### PHP introduction.
+## 5. PHP
+### Introduction.
 **PHP** is a popular server side scripting language used for web development, building web application and connecting databases.
 PHP runs on the server side, meaning *everything works on the web server before it appears in browser*.
-
 ### How PHP works.
 - User opens a wesite.
 - Server runs PHP code.
@@ -154,16 +159,9 @@ PHP runs on the server side, meaning *everything works on the web server before 
 |Open source.                |                    free to use and modify.                     |
 |     Embedded in html.      |      A PHP code an be wrotten directly inside HTML files.      |
 |Cross platform Compatibility| Applications developed with PHP can run on different platforms.|
-
 > PHP makes websites dynamic which means changes happen depending on the user input.
 
 - [Geeks for geeks](https//www.geeksforgeeks.org)
 - [PHP official documentation](https//www.php.net)
-
-## Rust
-<!-- Team Member 7 -->
-### **Official Language Documentation**
-This is the most reliable source for any developer. For example:
-**Python**: Include a link to ***https://docs.python.org/3/***.
-### **Interactive Learning Platforms:
-These are great for beginners who want to practice coding. Examples include platforms like `W3Schools` or `official tutorials` provided by the language communities.
+> # Interactive Learning Platforms:
+> These are some of platforms which are great for beginners who want to practice coding. Examples include `W3Schools` or `official tutorials` provided by the language communities.
