@@ -50,7 +50,10 @@ it is used in line with other languages to enable
   1. Data visualisation 
   2. game development 
   3. 3D graphics 
-  4. creating applications 
+  4. creating applications
+### JavaScript program example
+`console.log("Hello, World!");`
+- the output for the above code will be ` Hello, World! `
 ## 3. Java
 ### Overview
 Java is **high level, object oriented programming language** it also remains to be one of the most popular one **used for building  realiable, scalable and cross-platform application**. It is known for its `portability, relibity and  security`.It was developed by Sun MIcrosystems(now owned by Oracle). 
