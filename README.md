@@ -49,3 +49,8 @@ Python is a high-level, interpreted, general-purpose programming language that h
 <!-- Team Member 6 -->
 ## Rust
 <!-- Team Member 7 -->
+### **Official Language Documentation**
+This is the most reliable source for any developer. For example:
+**Python**: Include a link to ***https://docs.python.org/3/***.
+### **Interactive Learning Platforms:
+These are great for beginners who want to practice coding. Examples include platforms like `W3Schools` or `official tutorials` provided by the language communities.
