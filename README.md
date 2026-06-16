@@ -5,14 +5,16 @@
 - Gladwell M.
 - Alfred ngure 
 - Okolla Immaculate
+- Team member 6
+- team member 7
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)
 - [JavaScript](#javascript)
-- [C++](#c)
 - [Java](#java)
-- [C#](#c-1)
+- [C++](#c)
 - [PHP](#php)
+- [C#](#c-1)
 - [Rust](#rust)
 ## Introduction
 A programming language is a set of rules and instruction used to communicate with computer. We have several popular programming languages like java, javascript,python and etc.
@@ -163,5 +165,9 @@ PHP runs on the server side, meaning *everything works on the web server before 
 
 - [Geeks for geeks](https//www.geeksforgeeks.org)
 - [PHP official documentation](https//www.php.net)
-> # Interactive Learning Platforms:
+## 6. C#
+<!-- [Team Member 2 Name] will write this section -->
+## 7. Rust
+<!-- [Team Member 3 Name] will write this section --> 
+# Interactive Learning Platforms:
 > These are some of platforms which are great for beginners who want to practice coding. Examples include `W3Schools` or `official tutorials` provided by the language communities.
