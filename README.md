@@ -5,6 +5,7 @@
 - Gladwell M.
 - Alfred ngure 
 - Okolla Immaculate
+- Kipchirchir Tony
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)
@@ -160,8 +161,114 @@ PHP runs on the server side, meaning *everything works on the web server before 
 |     Embedded in html.      |      A PHP code an be wrotten directly inside HTML files.      |
 |Cross platform Compatibility| Applications developed with PHP can run on different platforms.|
 > PHP makes websites dynamic which means changes happen depending on the user input.
-
 - [Geeks for geeks](https//www.geeksforgeeks.org)
 - [PHP official documentation](https//www.php.net)
 > # Interactive Learning Platforms:
 > These are some of platforms which are great for beginners who want to practice coding. Examples include `W3Schools` or `official tutorials` provided by the language communities.
+---
+## 6. Rust 
+
+### Introduction
+
+**Rust** is a modern, *high-performance* programming language designed for **safety**, **speed**, and **concurrency**. It was originally developed by Mozilla Research and is now maintained by the Rust Foundation and the open-source community.
+
+Rust helps developer build `reliable` software by preventing common proggraming ~~errors~~ such as memory leaks, null pointer dereferencing and data races.
+
+### Why learn Rust?
+Rust has become increasingly popular because it offers:
+- **Memory safety** without requiring a garbage collector.
+- **High performance** comparable to C and C++.
+- Strong support for **concurrent programming**.
+- Excellent developer tools and documentation.
+- Cross-platform compatibility.
+
+### Key features
+- Ownership and Borrowing System
+- Pattern Matching
+- Type Inference
+- Zero-Cost Abstractions
+- Error Handling
+- Package Management with Cargo
+
+### Official resources
+You can learn more about Rust from the following resources:
+- [Official Website](https://www.rust-lang.org)
+- [Rust Documentation](https://doc.rust-lang.org)
+- [Rust Playground](https://play.rust-lang.org)
+- [Cargo Package Registry](https://crates.io)
+
+## Basic rust example
+```rust
+fn main() {
+    println!("Hello, World!");
+}
+```
+
+>The code above prints **"Hello, World!"** to the console.
+
+### Advantages of rust
+1. Memory safety without garbage collection.
+2. Fast execution speed.
+3. Strong type system.
+4. Excellent tooling and package management.
+5. Suitable for systems programming and web development.
+
+### Applications of rust
+Rust is used in many areas including:
+- Operating Systems
+- Web Development
+- Embedded Systems
+- Game Development
+- Networking
+- Cloud Computing
+- Blockchain Development
+
+### Popular projects using rust
+- Firefox components
+- Deno
+- Dropbox infrastructure
+- Discord backend services
+
+## Comparison of rust with Other Languages
+| Feature | Rust | C++ | Python |
+|----------|------|------|--------|
+| Performance | High | High | Medium |
+| Memory Safety | Excellent | Limited | Good |
+| Garbage Collection | No | No | Yes |
+| Learning Curve | Moderate | High | Easy |
+| Concurrency Support | Excellent | Good | Limited |
+
+### Steps to start learning rust
+1. [ ] Install Rust from the official website.
+2. [ ] Learn basic syntax and variables.
+3. [ ] Understand ownership and borrowing.
+4. [ ] Practice with functions and structs.
+5. [ ] Learn error handling.
+6. [ ] Build small projects.
+7. [ ] Explore Cargo and external crates.
+8. [ ] Contribute to open-source projects.
+
+## Example Data Types
+
+### Integer Types
+
+- `i8`
+- `i16`
+- `i32`
+
+### Floating Point Types
+
+- `f32`
+- `f64`
+
+### Other Types
+
+- `bool`
+- `char`
+- `String`
+- Arrays
+- Tuples
+
+## Conclusion
+Rust is a powerful programming language that combines the speed of low-level languages with modern safety features. Its growing ecosystem, strong community support, and focus on reliability make it an excellent choice for developers interested in building efficient and secure software.
+>*Learning Rust can open opportunities in systems programming, web development, cloud computing, and many other technology fields.*
