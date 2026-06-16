@@ -52,7 +52,7 @@ it is used in line with other languages to enable
   3. 3D graphics 
   4. creating applications
 ### JavaScript program example
-`console.log("Hello, World!");`
+```JavaScript`console.log("Hello, World!");```
 - the output for the above code will be ` Hello, World! `
 ## 3. Java
 ### Overview
