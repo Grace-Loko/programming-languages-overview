@@ -5,6 +5,7 @@
 - Gladwell M.
 - Alfred ngure 
 - Okolla Immaculate
+- Kipchirchir Tony
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)
@@ -207,7 +208,7 @@ fn main() {
 }
 ```
 
->The code above prints **"Hello, World!"** to the console.
+> The code above prints **"Hello, World!"** to the console.
 
 ### Advantages of rust
 1. Memory safety without garbage collection.
