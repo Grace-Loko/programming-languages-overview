@@ -6,6 +6,7 @@
 - Alfred ngure 
 - Okolla Immaculate
 - Kipchirchir Tony
+- Thomas Kimani
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)
@@ -249,7 +250,112 @@ Rust is used in many areas including:
 Rust is a powerful programming language that combines the speed of low-level languages with modern safety features. Its growing ecosystem, strong community support, and focus on reliability make it an excellent choice for developers interested in building efficient and secure software.
 > *Learning Rust can open opportunities in systems programming, web development, cloud computing, and many other technology fields.*
 ## C#
-<!-- [Team Member 3 Name] will write this section --> 
+### Introduction
+**C#** (pronounced **"C-Sharp"**) is a modern, object-oriented programming language developed by **Microsoft** in 2000 as part of the **.NET** framework. It was designed by **Anders Hejlsberg** to provide developers with a simple, powerful, and type-safe language for building a wide variety of applications.
+Today, C# is one of the world's most popular programming languages because of its readability, security, and versatility. It is used to develop desktop applications, web applications, cloud-based services, enterprise software, mobile applications, games, and Artificial Intelligence (AI) solutions.
+### History of C#
+| Year | Milestone |
+|------|-----------|
+| 2000 | C# was developed by Microsoft. |
+| 2002 | First official release with .NET Framework 1.0 |
+| 2005 | Introduction of Generics |
+| 2007 | Added Language Integrated Query (LINQ) |
+| 2017 | Added Pattern Matching |
+| 2020 | Improved Records and Top-Level Statements |
+| Today | Used for Web, Desktop, Mobile, AI, Cloud, IoT, and Gaming |
+## Features of C#
+C# provides many features that make software development easier and more efficient.
+### 1. Object-Oriented Programming (OOP)
+C# follows the Object-Oriented Programming paradigm, meaning programs are organized around **objects** rather than functions.
+
+The four pillars of OOP are:
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Abstraction
+
+Example:
+
+```csharp
+class Animal
+{
+    public void Speak()
+    {
+        Console.WriteLine("Animal is speaking");
+    }
+}
+```
+### 2. Strongly typed language
+Every variable must have a specific data type.
+```csharp
+int age = 25;
+double salary = 50000.75;
+string name = "Thomas";
+bool isStudent = false;
+```
+This reduces programming errors.
+### 3. Platform Independence
+Modern C# applications run on:
+- Windows
+- Linux
+- macOS
+using the **.NET** runtime.
+### 4. Automatic Memory Management
+
+C# automatically manages memory using the **Garbage Collector (GC)**.
+
+Benefits include:
+
+- Prevents memory leaks
+- Frees unused memory automatically
+- Improves application performance
+
+### Common data types
+
+| Data Type | Description | Example |
+|------------|-------------|---------|
+| `int` | Integer numbers | `10` |
+| `double` | Decimal numbers | `15.99` |
+| `float` | Floating point numbers | `5.6f` |
+| `char` | Single character | `'A'` |
+| `string` | Text | `"Hello"` |
+| `bool` | True or False | `true` |
+| `decimal` | Financial calculations | `100.50m` |
+### Advantages of C#
+- Easy to learn
+- Object-oriented
+- Strong security features
+- Automatic memory management
+- Large developer community
+### Disadvantages of C#
+
+- Slightly slower than C++
+- Requires the .NET runtime
+- Larger application size compared to some languages
+- Less commonly used in embedded systems
+## Why learn C#?
+
+Learning C# provides numerous career opportunities because it is widely used across multiple industries.
+
+Some reasons to learn C# include:
+
+- ✔ Easy syntax for beginners
+- ✔ High demand in the job market
+- ✔ Excellent support for Windows development
+- ✔ Cross-platform capabilities with .NET
+
+### Useful Resources
+
+| Resource | Purpose |
+|----------|---------|
+| https://learn.microsoft.com/dotnet/csharp/ | Official Microsoft C# documentation |
+| https://dotnet.microsoft.com/ | Download the .NET SDK |
+| https://learn.microsoft.com/training/ | Free Microsoft Learn courses |
+| https://github.com/dotnet | Official .NET GitHub repositories |
+| https://visualstudio.microsoft.com/ | Download Visual Studio IDE |
+| https://code.visualstudio.com/ | Download Visual Studio Code |
+| https://www.w3schools.com/cs/ | Beginner-friendly C# tutorials |
+ 
 # Interactive Learning Platforms:
 > These are some of platforms which are great for beginners who want to practice coding. Examples include `W3Schools` or `official tutorials` provided by the language communities.
 ---
