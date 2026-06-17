@@ -13,8 +13,8 @@
 - [Java](#java)
 - [C++](#c)
 - [PHP](#php)
-- [C#](#c-1)
 - [Rust](#rust)
+- [C#](#c-1)
 ## Introduction
 A programming language is a set of rules and instruction used to communicate with computer. We have several popular programming languages like java, javascript,python and etc.
 
@@ -129,7 +129,7 @@ Java is one of the world's most popular programming languages. It is widely used
 ### Useful Links
 - https://isocpp.org/
 - https://cplusplus.com/
-- ## C++ Compared to Other Languages
+## C++ Compared to Other Languages
 | C++ | Python | JavaScript |
 |------|---------|------------|
 | Very fast and efficient | Easy to learn | Great for interactive websites |
@@ -163,21 +163,10 @@ PHP runs on the server side, meaning *everything works on the web server before 
 > PHP makes websites dynamic which means changes happen depending on the user input.
 - [Geeks for geeks](https//www.geeksforgeeks.org)
 - [PHP official documentation](https//www.php.net)
-## C#
-<!-- [Team Member 2 Name] will write this section -->
 ## Rust
-<!-- [Team Member 3 Name] will write this section --> 
-# Interactive Learning Platforms:
-> These are some of platforms which are great for beginners who want to practice coding. Examples include `W3Schools` or `official tutorials` provided by the language communities.
----
-## 6. Rust 
-
 ### Introduction
-
 **Rust** is a modern, *high-performance* programming language designed for **safety**, **speed**, and **concurrency**. It was originally developed by Mozilla Research and is now maintained by the Rust Foundation and the open-source community.
-
 Rust helps developer build `reliable` software by preventing common proggraming ~~errors~~ such as memory leaks, null pointer dereferencing and data races.
-
 ### Why learn Rust?
 Rust has become increasingly popular because it offers:
 - **Memory safety** without requiring a garbage collector.
@@ -185,7 +174,6 @@ Rust has become increasingly popular because it offers:
 - Strong support for **concurrent programming**.
 - Excellent developer tools and documentation.
 - Cross-platform compatibility.
-
 ### Key features
 - Ownership and Borrowing System
 - Pattern Matching
@@ -193,30 +181,25 @@ Rust has become increasingly popular because it offers:
 - Zero-Cost Abstractions
 - Error Handling
 - Package Management with Cargo
-
 ### Official resources
 You can learn more about Rust from the following resources:
 - [Official Website](https://www.rust-lang.org)
 - [Rust Documentation](https://doc.rust-lang.org)
 - [Rust Playground](https://play.rust-lang.org)
 - [Cargo Package Registry](https://crates.io)
-
 ## Basic rust example
 ```rust
 fn main() {
     println!("Hello, World!");
 }
 ```
-
 > The code above prints **"Hello, World!"** to the console.
-
 ### Advantages of rust
 1. Memory safety without garbage collection.
 2. Fast execution speed.
 3. Strong type system.
 4. Excellent tooling and package management.
 5. Suitable for systems programming and web development.
-
 ### Applications of rust
 Rust is used in many areas including:
 - Operating Systems
@@ -226,13 +209,11 @@ Rust is used in many areas including:
 - Networking
 - Cloud Computing
 - Blockchain Development
-
 ### Popular projects using rust
 - Firefox components
 - Deno
 - Dropbox infrastructure
 - Discord backend services
-
 ## Comparison of rust with Other Languages
 | Feature | Rust | C++ | Python |
 |----------|------|------|--------|
@@ -241,7 +222,6 @@ Rust is used in many areas including:
 | Garbage Collection | No | No | Yes |
 | Learning Curve | Moderate | High | Easy |
 | Concurrency Support | Excellent | Good | Limited |
-
 ### Steps to start learning rust
 1. [ ] Install Rust from the official website.
 2. [ ] Learn basic syntax and variables.
@@ -251,28 +231,25 @@ Rust is used in many areas including:
 6. [ ] Build small projects.
 7. [ ] Explore Cargo and external crates.
 8. [ ] Contribute to open-source projects.
-
 ## Example Data Types
-
 ### Integer Types
-
 - `i8`
 - `i16`
 - `i32`
-
 ### Floating Point Types
-
 - `f32`
 - `f64`
-
 ### Other Types
-
 - `bool`
 - `char`
 - `String`
-- Arrays
-- Tuples
-
+- `Arrays`
+- `Tuples`
 ## Conclusion
 Rust is a powerful programming language that combines the speed of low-level languages with modern safety features. Its growing ecosystem, strong community support, and focus on reliability make it an excellent choice for developers interested in building efficient and secure software.
->*Learning Rust can open opportunities in systems programming, web development, cloud computing, and many other technology fields.*
+> *Learning Rust can open opportunities in systems programming, web development, cloud computing, and many other technology fields.*
+## C#
+<!-- [Team Member 3 Name] will write this section --> 
+# Interactive Learning Platforms:
+> These are some of platforms which are great for beginners who want to practice coding. Examples include `W3Schools` or `official tutorials` provided by the language communities.
+---
